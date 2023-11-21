@@ -1,4 +1,4 @@
-# tutorial
+# Collecting Data Tutorial
 A repository for the Collecting Data assignments.
 # Dataset Title
 Nobel Prize Winners
