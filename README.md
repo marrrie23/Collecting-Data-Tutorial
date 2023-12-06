@@ -17,10 +17,10 @@ Nobel laureates include Marie Curie, Johannes Stark, Woodrow Wilson, Jane Addams
 | name                    | Name of the individual                        |
 | born                    | Date of birth                                 |
 | bornCountry_original    | Original country of birth                     |
-| bornCountry_now         | Current country of the individual             |
+| bornCountry_now         | Current name of the country of origin         |
 | bornCity_original       | Original city of birth                        |
-| bornCity_now            | Current city of the individual                |
-| bornLocation            | Specific birth location      |
+| bornCity_now            | Current name of the city                      |
+| bornLocation            | Specific birth location                       |
 | bornLong                | Longitude coordinate of birthplace            |
 | bornLat                 | Latitude coordinate of birthplace             |
 | diedLong                | Longitude coordinate of place of death        |
