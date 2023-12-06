@@ -20,7 +20,7 @@ Nobel laureates include Marie Curie, Johannes Stark, Woodrow Wilson, Jane Addams
 | bornCountry_now         | Current country of the individual             |
 | bornCity_original       | Original city of birth                        |
 | bornCity_now            | Current city of the individual                |
-| bornLocation            | Specific birth location (e.g., hospital)      |
+| bornLocation            | Specific birth location      |
 | bornLong                | Longitude coordinate of birthplace            |
 | bornLat                 | Latitude coordinate of birthplace             |
 | diedLong                | Longitude coordinate of place of death        |
